@@ -1,4 +1,4 @@
-## Привет, я начинающий Java-разработчик.
+## Привет, я начинающий [Java-разработчик].
 
 Здесь я собрал немного информации о себе.
 
@@ -44,3 +44,4 @@
  <img src="https://komarev.com/ghpvc/?username=your-github-xkr1se&style=flat-square&color=blue" alt=""/>
 </p>
 
+[Java-разработчик]:vk.com/xkr1se
