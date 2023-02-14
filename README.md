@@ -44,4 +44,4 @@
  <img src="https://komarev.com/ghpvc/?username=your-github-xkr1se&style=flat-square&color=blue" alt=""/>
 </p>
 
-[Java-разработчик]:vk.com/xkr1se
+[Java-разработчик]:https://vk.com/xkr1se
